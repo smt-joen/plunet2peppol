@@ -1,0 +1,14 @@
+{
+  "name": "plunet2peppol",
+  "version": "1.0.0",
+  "description": "Create PEPPOL BIS 3 from Plunet output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joen C",
+  "license": "ISC",
+  "dependencies": {
+    "xmlbuilder2": "^3.1.1"
+  }
+}
